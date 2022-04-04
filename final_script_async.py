@@ -115,7 +115,7 @@ if __name__ == '__main__':
         host="localhost",
         database="postgres",
         user="postgres",
-        password="pythonista0505")
+        password="test123")
 
     cursor = conn.cursor()
 
